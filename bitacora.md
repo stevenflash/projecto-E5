@@ -4,7 +4,8 @@ Una línea por decisión: qué decidimos y por qué. Lo más reciente arriba.
 
 ## Decisiones
 
-- AAAA-MM-DD · Decisión · Por qué
+- 2026-11-19-mi desicion fue usar una informacion de un repositorio similirar-la use para usar la misma informacion del repositorio sintetico con otro enfoque diferente.
+
 
 ## Limpieza (desde la sesión 4)
 
