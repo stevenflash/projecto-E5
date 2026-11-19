@@ -1,8 +1,9 @@
-# datos/originales
-
-Aquí va la muestra **tal como la descargaste** (CSV). Estos archivos no se modifican: si hay que corregir algo, se hace en un cuaderno y el resultado va a `datos/limpios/`.
-
-- Sube el archivo con **Add file › Upload files** estando dentro de esta carpeta.
-- Si el archivo es muy grande, sube una muestra (por ejemplo, las primeras 1.000 filas) y escribe en el diccionario de dónde salió.
-- Nada de datos personales: nombres, cédulas, teléfonos, correos ni direcciones de personas.
-- Si es una muestra inventada para practicar, ponle `sintetico` en el nombre (por ejemplo `ventas_sintetico.csv`) y dilo en el README.
+# datos/sinteticos
+[inventory_data_dictionary_sintetico.csv](https://github.com/user-attachments/files/35112091/inventory_data_dictionary.csv)
+[products_data_dictionary_sintetico.csv](https://github.com/user-attachments/files/35112090/products_data_dictionary.csv)
+[sales_data_dictionary_sintetico.csv](https://github.com/user-attachments/files/35112089/sales_data_dictionary.csv)
+[stores_data_dictionary_sintetico.csv](https://github.com/user-attachments/files/35112088/stores_data_dictionary.csv)
+[inventory_sintetico.csv](https://github.com/user-attachments/files/35112087/inventory.csv)
+[products_sintetico.csv](https://github.com/user-attachments/files/35112086/products.csv)
+[sales_sintetico.csv.zip](https://github.com/user-attachments/files/35112084/sales.csv.zip)
+[stores_sintetico.csv](https://github.com/user-attachments/files/35112083/stores.csv)
