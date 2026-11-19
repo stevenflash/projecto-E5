@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
+Equipo E5 · Análisis de Datos Básico · Estud-IA (Capa 2)
 
 > **Cómo llenar este archivo:** borra «Escribe aquí» y responde debajo de cada pregunta. Si todavía no sabes algo, escribe **PENDIENTE:** y qué te falta confirmar. No inventes datos.
 
@@ -9,40 +9,41 @@ Equipo E__ · Análisis de Datos Básico · Estud-IA (Capa 2)
 ### 1. Usuario y decisión
 > ¿Quién usará el resultado (una persona o un área) y qué va a decidir con él?
 
-Escribe aquí.
+Los datos utilizados son sintéticos; el resultado final va destinado a los directivos de mercadeo y marketing para las decisiones administrativas.
+
 
 ### 2. Pregunta principal
 > Una sola pregunta que ayude a tomar esa decisión.
 
-Escribe aquí.
+¿Qué categorías de juguetes presentan mayor variación en sus ventas durante los diferentes meses del año?
 
 ### 3. Fuente de datos
 > Enlace o nombre de la fuente. ¿Es pública o es una muestra de práctica inventada (sintética)? Si es inventada, dilo aquí.
 
-Escribe aquí.
+La fuente de datos es sintética y es creada como cadena ficticia de jugueterías de México.
 
 ### 4. Qué representa una fila
 > Completa la frase: «Cada fila es…». ¿Qué campo distingue una fila de otra?
 
-Cada fila es…
+Cada fila contiene información sobre las ventas y el inventario de Maven Toys, una cadena de jugueterías ficticia de México. Esta información incluye datos sobre productos, tiendas, operaciones cotidianas de venta y los niveles de inventario que hay en cada tienda.
 
 ### 5. Periodo
 > ¿Qué fechas cubren los datos?
 
-Escribe aquí.
+Los datos abarcan desde el 1 de enero de 2017 hasta el 30 de septiembre de 2018, y contienen más de 820.000 transacciones de todas las tiendas propiedad de Maven Toys.
 
 ### 6. Cuatro indicadores
 > Nombre de cada indicador y, si ya puedes, cómo se calcula (qué se divide entre qué).
 
-1. 
-2. 
-3. 
-4. 
+1. Crecimiento mensual de ventas por categoría
+2. Rendimiento por tienda
+3. Relación entre precio y unidades vendidas
+4. Rotación de inventario
 
 ### 7. Fuera de alcance
 > Lo que este proyecto NO va a responder.
 
-Escribe aquí.
+PENDIENTE
 
 ## Si alcanzas hoy (para el jueves es obligatorio)
 
@@ -84,3 +85,4 @@ Escribe aquí.
 ---
 
 Proyecto desarrollado en Estud-IA · Capa 2 · Análisis de Datos.
+
