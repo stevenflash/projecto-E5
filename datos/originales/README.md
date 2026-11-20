@@ -1,5 +1,5 @@
 # datos/sinteticos
-[Uploading Maven_Toys_9_archivos_excel (1).zip…]()
+[ Maven_Toys_9_archivos_excel_sinteticos.zip…]()
 
 [09_dashboard_ejecutivo.xlsx](https://github.com/user-attachments/files/35118570/09_dashboard_ejecutivo.xlsx)
 [08_segmentacion_productos.xlsx](https://github.com/user-attachments/files/35118569/08_segmentacion_productos.xlsx)
